@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Costa0910
-- 👀 I'm looking for someone to practice
 - 🌱 I’m currently learning Web development
 <!---
 Costa0910/Costa0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
