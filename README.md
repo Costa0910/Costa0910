@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm junior web developer <br>💻 Currently immersing myself in the world of computer science at 42 Lisboa<br>🔭 Feel free to connect, and let's explore new opportunities together!
+👨‍💻 I'm junior web developer <br>💻 Studying computer science at 42 Lisboa<br>
 
 
 ## 🌐 Socials:
