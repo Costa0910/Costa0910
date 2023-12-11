@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Enthusiastic about web development, specializing in full-stack JS/Typescript and Python.
+👨‍💻 Enthusiastic about web development, specializing in full-stack JS/Typescript.
 
 
 ## 🌐 Socials:
