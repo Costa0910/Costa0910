@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Enthusiastic about web development, specializing in full-stack JS/Typescript and dotnet.
+👋🏿 Olá! Sou um desenvolvedor júnior com experiência em projetos full stack utilizando JavaScript/TypeScript e React.js, além de backend em C#/.NET. Estou aberto a novas oportunidades para aplicar os meus conhecimentos e contribuir para projetos inovadores. Vamos conectar!
 
 
 ## 🌐 Socials:
