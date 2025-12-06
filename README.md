@@ -2,7 +2,7 @@
   <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=costa0910&langs_count=10&layout=compact&card_width=300" />
 </a>
 <a href="#">
-  <img height=220 align="center" src="github-readme-stats-gamma-ashy-14.vercel.app/api?username=costa0910&limit=5&combine_all_yearly_contributions=true" />
+  <img height=220 align="center" src="https://github-readme-stats-gamma-ashy-14.vercel.app/api?username=costa0910&limit=5&combine_all_yearly_contributions=true" />
 </a>
 
 <!--### 🔝 Top Contributed Repo 
